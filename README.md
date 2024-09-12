@@ -2,8 +2,6 @@
 
 Welcome to the Classic Games Collection repository! This repository contains Python implementations of four timeless games: Connect 4, Tetris, Snake Game, and Pong.
 
-
-
 ## Description
 
 This collection aims to bring back the nostalgia of some of the most beloved classic games. Each game is crafted with dedication to preserve its original feel while also adding a modern touch. Whether you're here to reminisce about the games of your youth or just looking for some fun, this collection is for you.
